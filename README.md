@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @FileCxrrupt
-- 👀 I’m interested in Cybersecurity and Automation
-- 🌱 I’m currently learning many things
-- 📫 How to reach me @cxrrupt77 on twitter
-- I am more active on Instagram @puru._.jeet
+- 👋 Hi, I’m @Pyrosec
+- Twitter: @Pyr0sec
 
 <!---
 FileCxrrupt/FileCxrrupt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
