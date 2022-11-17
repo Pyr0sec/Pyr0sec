@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Pyrosec
-- Twitter: @Pyr0sec
+<h2> Hi, I'm Purujeet <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-<!---
-FileCxrrupt/FileCxrrupt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+*I am a hacker and programmer.*
+
+*Check out my work below.*
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/Pyr0sec?style=social)](https://twitter.com/Pyr0sec)
